@@ -8,7 +8,7 @@ A modern real estate application built with React, TypeScript, and Vite, optimiz
 - **Interactive Maps**: View properties on an interactive map with location markers
 - **Wishlist**: Save and manage favorite properties
 - **Property Details**: Detailed property views with amenities, nearby conveniences, and location information
-- **Authentication**: Email/Password and OTP-based authentication
+- **Authentication**: Email/Password and OTP-based authentication UI
 - **Responsive Design**: Optimized for mobile and tablet devices
 
 ## Tech Stack
