@@ -122,5 +122,3 @@ A modern real estate application built with React, TypeScript, and Vite, optimiz
 
 1. shubhamk2907@gmail.com
 2. Linkedin: https://www.linkedin.com/in/shubham-kumar-sahoo2907/
-
-Wr
